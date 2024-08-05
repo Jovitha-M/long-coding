@@ -1,0 +1,18 @@
+FITNESS MANAGEMENT APPLICATION
+Build a fitness management application that determines BMI, calculates Calories consumed and burnt in a day, recommends
+exercise routines based on height, weight, BMI, food intake and activity load. The application should allow the users to enter
+values in metric system
+1. Height
+2. Weight
+3. Food intake – Each Food the user selects in the system should have a calorific value and that should be added
+4. Water intake – Each liter of water consumed should add the defined calorific value
+5. Activity – Each activity like walking, running, cycling should burn calories.
+Based on the above values - calculate
+1. BMI – Weight (kg) / height (meters squared)
+2. Calories consumed – Add up all the calories consumed
+3. Calories burned – Add up all the calories burnt in physical activity
+4. Provide a report of activities performed by the user each day along with calories consumed and burned in a
+day/week/month
+
+
+https://drive.google.com/file/d/1kPH67cVVFp5WAh3AmtD_rlW33JNjds6O/view
